@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cae579ed-64bc-4251-bae1-76f5b03b4654" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../5-tool/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/CloneUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/CloneUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/CloneUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/CloneUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/JaskSonSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/JaskSonSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/beetl/BeetlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/beetl/BeetlHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/beetl/MyWhileStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/beetl/MyWhileStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/caffeine/CaffeineApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/caffeine/CaffeineApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/caffeine/SkuInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/caffeine/SkuInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/caffeine/SkuInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/caffeine/SkuInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/messagePack/PackSizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/messagePack/PackSizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/messagePack/PackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5-tool/src/main/java/com/ibeetl/code/ch05/messagePack/PackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/IPriceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/IPriceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/MarkdownDoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/MarkdownDoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/RpcPriceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/RpcPriceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6-javaodc/src/main/java/com/ibeetl/code/javadoc/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/ClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/InlineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/InlineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/VTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/VTableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/virtuals/VirtualCallTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit/virtuals/VirtualCallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/src/main/java/com/ibeetl/code/style/FormatTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/src/main/java/com/ibeetl/code/style/Test1.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getMess</find>
+      <find>copyOfRange</find>
+      <find>java.lang.AbstractStringBuilder::append</find>
+      <find>sayHello</find>
+      <find>codecache</find>
+      <find>UseCodeCacheFlushing</find>
+      <find>getmessage</find>
+      <find>inline</find>
+      <find>FreqInlineSize</find>
+      <find>say</find>
+      <find>foo.say</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TVWQE6MFRZby7w32jOyBIIpYKM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566806789360" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/ibeetl/code/jit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ibeetl.code.jit" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibeetl.code.jit.ClientTest" />
+      <module name="ch10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibeetl.code.jit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibeetl.code.jit.HelloWorld" />
+      <option name="VM_PARAMETERS" value="-server -XX:+PrintCodeCache -XX:+PrintFlagsFinal -XX:+UnlockDiagnosticVMOptions -XX:+PrintCompilation -XX:+LogCompilation -XX:+PrintInlining -XX:+PrintAssembly" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibeetl.code.jit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InlineTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibeetl.code.jit.InlineTest" />
+      <module name="ch10" />
+      <option name="VM_PARAMETERS" value="-XX:MaxInlineSize=8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibeetl.code.jit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VTableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibeetl.code.jit.VTableTest" />
+      <module name="ch10" />
+      <option name="VM_PARAMETERS" value="-XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly  -XX:+UnlockDiagnosticVMOptions -XX:+PrintCompilation -XX:+LogCompilation -XX:+PrintInlining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibeetl.code.jit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VirtualCallTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibeetl.code.jit.virtuals.VirtualCallTest" />
+      <module name="git" />
+      <option name="VM_PARAMETERS" value="-server -XX:+PrintCodeCache -XX:+PrintFlagsFinal -XX:+UnlockDiagnosticVMOptions -XX:+PrintCompilation -XX:+LogCompilation -XX:+PrintInlining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibeetl.code.jit.virtuals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.ClientTest" />
+      <item itemvalue="Application.InlineTest" />
+      <item itemvalue="Application.VTableTest" />
+      <item itemvalue="Application.VirtualCallTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VirtualCallTest" />
+        <item itemvalue="Application.VTableTest" />
+        <item itemvalue="Application.ClientTest" />
+        <item itemvalue="Application.InlineTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae579ed-64bc-4251-bae1-76f5b03b4654" name="Default Changelist" comment="" />
+      <created>1561043703615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561043703615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>

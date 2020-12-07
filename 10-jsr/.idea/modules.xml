@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10-jsr.iml" filepath="$PROJECT_DIR$/10-jsr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-examples/hello-examples.iml" filepath="$PROJECT_DIR$/hello-examples/hello-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-processor/hello-processor.iml" filepath="$PROJECT_DIR$/hello-processor/hello-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor/processor.iml" filepath="$PROJECT_DIR$/processor/processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor-annotations/processor-annotations.iml" filepath="$PROJECT_DIR$/processor-annotations/processor-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processor-test/processor-test.iml" filepath="$PROJECT_DIR$/processor-test/processor-test.iml" />
+    </modules>
+  </component>
+</project>

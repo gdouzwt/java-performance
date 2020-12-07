@@ -1,0 +1,24 @@
+package ${packageName};
+
+import JsonWriterConstants;
+import JsonWriterUtils;
+import java.lang.String;
+import java.lang.StringBuilder;
+import ${parameterTypeQualifiedName};
+
+public class ${generateClassSimpleName} implements ${interfaceName} {
+  public String ${writeMethodName}(${parameterTypeName} ${parameterName}) {
+    StringBuilder sb = new StringBuilder();
+    sb.append(JsonWriterConstants.OBJECT_PREFIX);
+	  @ for(entry in varsInTypeForParameter!){
+	  sb.append("\"${entry.key}\"").append(':');
+	  sb.append('"').append(${parameterName}.${entry.value}()).append('"');
+	    @if(!entryLP.last ){
+	  sb.append(',');
+		  @ }
+	  @ }
+
+    sb.append(JsonWriterConstants.OBJECT_SUFFIX);
+    return sb.toString();
+  }
+}

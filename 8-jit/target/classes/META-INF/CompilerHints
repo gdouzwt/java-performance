@@ -1,0 +1,11 @@
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.call_avgt_jmhLoop
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.call_sample_jmhLoop
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.call_ss_jmhStub
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.call_thrpt_jmhLoop
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.staticCall_avgt_jmhLoop
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.staticCall_sample_jmhLoop
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.staticCall_ss_jmhStub
+dontinline,com/ibeetl/code/jit/virtuals/VirtualCallTest.staticCall_thrpt_jmhLoop
+inline,com/ibeetl/code/jit/virtuals/VirtualCallTest.call
+inline,com/ibeetl/code/jit/virtuals/VirtualCallTest.staticCall
+inline,org/openjdk/jmh/infra/Blackhole.clearSinks
