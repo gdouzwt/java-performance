@@ -13,8 +13,6 @@ public class Area {
         this.cityId = cityId;
     }
 
-
-
     public Integer getProvinceId() {
         return provinceId;
     }
